@@ -1,4 +1,6 @@
 # Ethereum Events Data Pipeline
 
+## Infrastructure Diagram
 
-![eth_events_pipeline (1)](https://user-images.githubusercontent.com/26481613/169772240-0d4ffaaa-9788-4c7f-99f0-cc2e0f2d12cf.jpg)
+
+![pipeline_diagram](https://user-images.githubusercontent.com/26481613/169774525-29bfb802-9de1-4536-ba73-f676660cd301.jpg)
